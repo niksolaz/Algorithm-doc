@@ -1,5 +1,7 @@
+### Big O
 <- [RETURN](https://github.com/niksolaz/Algorithm-doc/tree/develop?tab=readme-ov-file)
 
+#### Descrizione Breve
 Il calcolo del Big O è un modo per descrivere l'efficienza di un algoritmo in termini di tempo o spazio in funzione della dimensione dell'input. La notazione Big O rappresenta il comportamento asintotico di un algoritmo, ossia come si comporta quando la dimensione dell'input tende all'infinito. Di seguito spiego come si calcola e si interpreta il Big O per diversi tipi di complessità.
 
 ### O(1) - Tempo Costante

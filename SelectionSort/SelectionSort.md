@@ -1,4 +1,5 @@
 ### Selection Sort
+<- [RETURN](https://github.com/niksolaz/Algorithm-doc/tree/develop?tab=readme-ov-file)
 
 #### Descrizione Breve
 Selection Sort è un algoritmo di ordinamento semplice che divide l'array in due parti: una parte ordinata e una parte non ordinata. Il processo ripetutamente seleziona il minimo (o massimo) elemento dalla parte non ordinata e lo sposta alla fine della parte ordinata.
@@ -38,3 +39,4 @@ print(sorted_array)  # Output: [11, 12, 22, 25, 64]
 - **Situazioni con limitate risorse di memoria:** Poiché non richiede spazio extra, è utile quando la memoria è una risorsa critica.
 
 Selection Sort è una buona scelta per casi semplici e didattici, ma non è adatto per l'uso pratico su dataset di grandi dimensioni a causa della sua inefficienza.
+<- [RETURN](https://github.com/niksolaz/Algorithm-doc/tree/develop?tab=readme-ov-file)
