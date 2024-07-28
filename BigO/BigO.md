@@ -1,3 +1,5 @@
+<- [RETURN](https://github.com/niksolaz/Algorithm-doc/tree/develop?tab=readme-ov-file)
+
 Il calcolo del Big O è un modo per descrivere l'efficienza di un algoritmo in termini di tempo o spazio in funzione della dimensione dell'input. La notazione Big O rappresenta il comportamento asintotico di un algoritmo, ossia come si comporta quando la dimensione dell'input tende all'infinito. Di seguito spiego come si calcola e si interpreta il Big O per diversi tipi di complessità.
 
 ### O(1) - Tempo Costante
@@ -105,3 +107,5 @@ def example_algorithm(array1, array2, target):
 La complessità totale sarà O(n) per il ciclo e O(log n) per la ricerca binaria. Poiché O(n) domina O(log n), la complessità complessiva è O(n).
 
 Con queste basi, dovresti essere in grado di analizzare la complessità di vari algoritmi e comprendere come ottimizzarli per migliorare l'efficienza. Se hai altri esempi specifici o domande su algoritmi particolari, non esitare a chiedere.
+
+<- [RETURN](https://github.com/niksolaz/Algorithm-doc/tree/develop?tab=readme-ov-file)
